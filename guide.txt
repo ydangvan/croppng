@@ -1,0 +1,3 @@
+
+- Replace the file: "google-logo" by another png file with transparant background
+- Double click file: batch "crop_photo". Please double click the bactch file not the python file
